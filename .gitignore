@@ -1,2 +1,10 @@
-mlruns
-metropt.csv
+# Data files
+data/
+*.csv
+
+# MLflow
+mlruns/
+
+# Kaggle
+.kaggle/
+kaggle.json
